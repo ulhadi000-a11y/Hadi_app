@@ -1,0 +1,21 @@
+{
+  "name": "مستودع المفرّج للأدوية والاكسسوارات الصيدلانية",
+  "short_name": "مستودع المفرّج",
+  "description": "نظام إدارة المستودعات والمبيعات والفواتير الطبية",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#093838",
+  "theme_color": "#0D4F4F",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
